@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kelvin1404
 - 👀 I’m interested in Flutter and iOS Development
-- 🌱 I’m currently learning Library Development in iOS
+- 🌱 I’m currently doing Library Development in iOS
 - 📫 How to reach me at kelvin@gokwik.co 
 
 <!---
